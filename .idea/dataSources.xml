@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="lecture" uuid="b22f731a-547e-45c5-b29e-c7a0567be6ef">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:~/h2db/lecture;Mode=PostgreSQL;AUTO_SERVER=TRUE;</jdbc-url>
+    </data-source>
+  </component>
+</project>
